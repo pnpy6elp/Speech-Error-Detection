@@ -1,2 +1,2 @@
-# Speech-Error-Detection
-Speech Error Detection
+# Pronunciation Error Detection
+Pronunciation Error Detection with LSTM and CNN
